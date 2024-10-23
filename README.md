@@ -3,7 +3,7 @@ The Arrhythmia Detection App provides real-time heart monitoring to detect arrhy
 
 #Key features include:
 
-#Arrhythmia Detection: Monitors heart rhythms and detects abnormalities in real-time.
+Arrhythmia Detection: Monitors heart rhythms and detects abnormalities in real-time.
 Firebase Authentication: Allows users to create accounts and log in securely.
 Doctor-Patient Chat: Enables patients to consult with doctors directly through the app.
 Secure Payments: Facilitates payment for premium services and consultations.
