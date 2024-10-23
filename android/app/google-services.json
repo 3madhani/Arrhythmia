@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793926793023",
+    "project_id": "arrhythmia-e91bf",
+    "storage_bucket": "arrhythmia-e91bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793926793023:android:54cb43295ae6a52421058a",
+        "android_client_info": {
+          "package_name": "com.example.checkout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANv61HfiXtWSaSZhDzimmDKVpBI9hBcUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793926793023:android:1da90b3ccbd6a27721058a",
+        "android_client_info": {
+          "package_name": "com.example.rhythmia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANv61HfiXtWSaSZhDzimmDKVpBI9hBcUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
