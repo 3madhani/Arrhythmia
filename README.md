@@ -29,5 +29,4 @@ Designed to provide both heart health monitoring and expert consultations, the a
 ![Visa Method](assets/app_preview/photo_15_2024-12-02_13-25-18.jpg)
 ![Payment Done Screen](assets/app_preview/photo_14_2024-12-02_13-25-18.jpg)
 ![Payment Method Screen](assets/app_preview/photo_13_2024-12-02_13-25-18.jpg)
-![Payment Method Screen](assets/app_preview/photo_13_2024-12-02_13-25-18.jpg)
 ![Doctor Profile Screen](assets/app_preview/photo_12_2024-12-02_13-25-18.jpg)
